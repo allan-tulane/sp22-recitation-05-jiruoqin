@@ -1,7 +1,7 @@
 # CMPS 2200  Recitation 05
 
-**Name (Team Member 1):**_________________________  
-**Name (Team Member 2):**_________________________
+**Name (Team Member 1):** Ruoqin Ji 
+**Name (Team Member 2):** Dachen Ni
 
 
 In this lab, we'll continue working with sequence functions and sorting.
